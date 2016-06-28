@@ -1,0 +1,8 @@
+{
+  "name": "socket-io-exercise",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
